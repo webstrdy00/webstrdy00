@@ -50,4 +50,7 @@ public void LeeDongHwi() {
 </div>
 <br>
 
-<h2></h2>
+<h2> 진행한 프로젝트 </h2><br>
+<div style = "flex">
+  <li>스마트미러를 이용한 스마트팜</li>
+</div>
