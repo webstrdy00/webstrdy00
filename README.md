@@ -9,7 +9,7 @@
 public void LeeDongHwi() {
    DongHwi = {
       name : '이동휘',
-      age : 24,
+      age : 25,
       phoneNumber : 01064418374,
       country : korea,
       School : 'Hansei Univercity / Since 2019/02 ~ 2025/02'
@@ -46,7 +46,6 @@ public void LeeDongHwi() {
 <h2> 자격증 </h2> <br>
 <div style="flex">
   <li> 정보처리기사 </li>
-  <li> 빅데이터분석기사 </li>
 </div>
 <br>
 
