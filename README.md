@@ -13,7 +13,7 @@ public void LeeDongHwi() {
       phoneNumber : 01064418374,
       country : korea,
       School : 'Hansei Univercity / Since 2019/02 ~ 2025/02'
-      Education : 'Electronic Software(2019 ~ 2020) 2nd grade->Computer Engineering(2022 ~ 2024) 3th grade'
+      Education : 'Electronic Software(2019 ~ 2020) 2nd grade->Computer Engineering(2022 ~ 2025) 4th grade'
       Lab : 2023/03/02 ~ now
       Hobby : 'Playing Games & meeting Friends'
    }
