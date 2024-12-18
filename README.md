@@ -10,7 +10,6 @@ public void LeeDongHwi() {
    DongHwi = {
       name : '이동휘',
       age : 25,
-      phoneNumber : 01064418374,
       country : korea,
       School : 'Hansei Univercity / Since 2019/02 ~ 2025/02'
       Education : 'Electronic Software(2019 ~ 2020) 2nd grade->Computer Engineering(2022 ~ 2025) 4th grade'
